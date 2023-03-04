@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="width: 100%; text-align: center; ">
    <img src="src/DoniDev_.png" alt="logo">
 </div>
 
