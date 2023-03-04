@@ -1,6 +1,6 @@
-<div style="width: 100%; text-align: center; ">
-   <img src="src/DoniDev_.png" alt="logo">
-</div>
+<p align="center">
+  <img max-width="100%" max-height="100%" src="src/DoniDev_.png">
+</p>
 
 # **I'm Daniil**
 # A self-taught full-stack developer. 
